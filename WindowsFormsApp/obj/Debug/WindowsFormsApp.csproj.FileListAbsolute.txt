@@ -1,0 +1,17 @@
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\bin\Debug\BusinessLogic.dll
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\bin\Debug\Model.dll
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\bin\Debug\BusinessLogic.pdb
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\bin\Debug\Model.pdb
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Kostya\source\repos\Semestr3\1Task\1TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.AddStudentForm.resources
