@@ -68,7 +68,7 @@ namespace BusinessLogic
         {
             for (int i = 0; i < 1; i++)
             {
-                AddStudent(Convert.ToString(i), "Повар", "ИН20-45л");
+                AddStudent(Convert.ToString(i), "Марио", "ИН20-45л");
             }
             for (int i = 0; i < 5; i++) {
                 AddStudent(Convert.ToString(i), "Программист", "КИ23-21б");
