@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\WindowsFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD96308-378A-4EE8-B0C2-7CA5683E4A7D}|..\\ConnectionSample\\ConnectionSample.csproj|c:\\users\\\u0435\u043B\u0438\u0441\u0435\u0439\\documents\\github\\2taskproga\\connectionsample\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD96308-378A-4EE8-B0C2-7CA5683E4A7D}|..\\ConnectionSample\\ConnectionSample.csproj|c:\\users\\\u0435\u043B\u0438\u0441\u0435\u0439\\documents\\github\\2taskproga\\connectionsample\\studentrepositoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD96308-378A-4EE8-B0C2-7CA5683E4A7D}|..\\ConnectionSample\\ConnectionSample.csproj|c:\\users\\\u0435\u043B\u0438\u0441\u0435\u0439\\documents\\github\\2taskproga\\connectionsample\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE3C364-8A12-440D-99F9-545E52DB16DC}|..\\ConsoleApp\\ConsoleApp.csproj|C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7055AA9A-9D63-4D1D-B69A-BB2DB6AC07D5}|..\\Model\\Model.csproj|C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD96308-378A-4EE8-B0C2-7CA5683E4A7D}|..\\ConnectionSample\\ConnectionSample.csproj|c:\\users\\\u0435\u043B\u0438\u0441\u0435\u0439\\documents\\github\\2taskproga\\connectionsample\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDC8604-601B-470B-83B9-90506B7AD9DB}|..\\BusinessLogic\\BusinessLogic.csproj|C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\businesslogic\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415D4CF9-F257-4C03-AAAE-1CF9D2E2D6D3}|WindowsFormsApp.csproj|C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\WindowsFormsApp\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415D4CF9-F257-4C03-AAAE-1CF9D2E2D6D3}|WindowsFormsApp.csproj|solutionrelative:addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415D4CF9-F257-4C03-AAAE-1CF9D2E2D6D3}|WindowsFormsApp.csproj|C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\WindowsFormsApp\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{415D4CF9-F257-4C03-AAAE-1CF9D2E2D6D3}|WindowsFormsApp.csproj|solutionrelative:addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415D4CF9-F257-4C03-AAAE-1CF9D2E2D6D3}|WindowsFormsApp.csproj|C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\WindowsFormsApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415D4CF9-F257-4C03-AAAE-1CF9D2E2D6D3}|WindowsFormsApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415D4CF9-F257-4C03-AAAE-1CF9D2E2D6D3}|WindowsFormsApp.csproj|C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\WindowsFormsApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{415D4CF9-F257-4C03-AAAE-1CF9D2E2D6D3}|WindowsFormsApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\ConnectionSample\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ConnectionSample\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\ConnectionSample\\AppDbContext.cs",
+              "RelativeToolTip": "..\\ConnectionSample\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:31:10.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepositoryEF.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\ConnectionSample\\StudentRepositoryEF.cs",
+              "RelativeDocumentMoniker": "..\\ConnectionSample\\StudentRepositoryEF.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\ConnectionSample\\StudentRepositoryEF.cs",
+              "RelativeToolTip": "..\\ConnectionSample\\StudentRepositoryEF.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:13:39.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\ConnectionSample\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\ConnectionSample\\IRepository.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\ConnectionSample\\IRepository.cs",
+              "RelativeToolTip": "..\\ConnectionSample\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:04:36.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\ConnectionSample\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ConnectionSample\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\ConnectionSample\\Class1.cs",
+              "RelativeToolTip": "..\\ConnectionSample\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:50:52.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\WindowsFormsApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:23:45.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logic.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\BusinessLogic\\Logic.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Logic.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\BusinessLogic\\Logic.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Logic.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:23:45.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\WindowsFormsApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:23:45.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:23:46.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddStudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\WindowsFormsApp\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\WindowsFormsApp\\AddStudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AddStudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:23:46.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddStudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\WindowsFormsApp\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\WindowsFormsApp\\AddStudentForm.cs",
+              "RelativeToolTip": "AddStudentForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:23:46.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\Model\\Student.cs",
+              "RelativeToolTip": "..\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:23:46.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

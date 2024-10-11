@@ -1,19 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\ConsoleApp\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\ConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFDC8604-601B-470B-83B9-90506B7AD9DB}|..\\BusinessLogic\\BusinessLogic.csproj|C:\\Users\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\businesslogic\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\BusinessLogic\\Logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECE3C364-8A12-440D-99F9-545E52DB16DC}|ConsoleApp.csproj|C:\\Users\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\ConsoleApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECE3C364-8A12-440D-99F9-545E52DB16DC}|ConsoleApp.csproj|C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\ConsoleApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECE3C364-8A12-440D-99F9-545E52DB16DC}|ConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{415D4CF9-F257-4C03-AAAE-1CF9D2E2D6D3}|..\\WindowsFormsApp\\WindowsFormsApp.csproj|C:\\Users\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{415D4CF9-F257-4C03-AAAE-1CF9D2E2D6D3}|..\\WindowsFormsApp\\WindowsFormsApp.csproj|C:\\Users\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\WindowsFormsApp\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,35 +23,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
@@ -59,54 +35,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\WindowsFormsApp\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\WindowsFormsApp\\Form1.cs",
               "ToolTip": "C:\\Users\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\WindowsFormsApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "..\\WindowsFormsApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\WindowsFormsApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T08:35:33.899Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-10-06T08:35:33.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\WindowsFormsApp\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\WindowsFormsApp\\Form1.cs",
               "ToolTip": "C:\\Users\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\WindowsFormsApp\\Form1.cs",
-              "RelativeToolTip": "..\\WindowsFormsApp\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\WindowsFormsApp\\Form1.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAnwD4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T08:35:33.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T08:35:33.93Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\ConsoleApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0438\u0441\u0435\u0439\\Documents\\GitHub\\2TaskProga\\ConsoleApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAI4AAAAAAAAAAAAIwJUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T08:35:34.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T08:35:34.314Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Logic.cs",
               "DocumentMoniker": "C:\\Users\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\BusinessLogic\\Logic.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLogic\\Logic.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\BusinessLogic\\Logic.cs",
               "ToolTip": "C:\\Users\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\BusinessLogic\\Logic.cs",
-              "RelativeToolTip": "..\\BusinessLogic\\Logic.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAmwFEAAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\elice\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\2TaskProga\\BusinessLogic\\Logic.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T08:35:34.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T08:35:34.315Z"
             }
           ]
         }
