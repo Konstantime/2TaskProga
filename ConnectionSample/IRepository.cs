@@ -14,7 +14,6 @@ namespace ConnectionSample
         void CreateStudent(T student);
         void DeleteStudent(int id);
         void DeleteAllStudents();
-        void Save();
 
         int GetCountStudents();
 

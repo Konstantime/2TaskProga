@@ -50,7 +50,7 @@ namespace WindowsFormsApp
             UpdateGistogram();
             UpdateListView();
             feedbackLabel.Text = "Удаление успешно)";
-        }
+        } 
 
         private void UpdateGistogram() {
             Dictionary<string, int> countEverySpeciality = logic.GetCountStudentsOfEverySpeciality();

@@ -17,7 +17,8 @@ namespace BusinessLogic
 {
     public class Logic
     {
-        IRepository<Student> repository = new EntityFrameworkRepository<Student>();
+        //IRepository<Student> repository = new EntityFrameworkRepository<Student>();
+        IRepository<Student> repository = new DapperRepository<Student>();
 
         public int GetCountStudent()
         {
@@ -45,7 +46,6 @@ namespace BusinessLogic
             };
 
             repository.CreateStudent(student);
-            repository.Save();
         }
 
         public void DeleteStudent(int index)

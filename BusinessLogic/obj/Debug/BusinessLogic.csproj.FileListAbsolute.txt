@@ -109,3 +109,5 @@ C:\Users\Kostya\source\repos\Semestr3\2TaskProga\BusinessLogic\bin\Debug\Connect
 C:\Users\Kostya\source\repos\Semestr3\2TaskProga\BusinessLogic\bin\Debug\ConnectionSample.pdb
 C:\Users\Kostya\source\repos\Semestr3\2TaskProga\BusinessLogic\bin\Debug\ConnectionSample.dll.config
 C:\Users\Kostya\source\repos\Semestr3\2TaskProga\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Kostya\source\repos\Semestr3\2TaskProga\BusinessLogic\bin\Debug\Dapper.dll
+C:\Users\Kostya\source\repos\Semestr3\2TaskProga\BusinessLogic\bin\Debug\Dapper.xml

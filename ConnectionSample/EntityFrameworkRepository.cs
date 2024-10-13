@@ -57,10 +57,6 @@ namespace ConnectionSample
             _context.Set<T>().Add(obj);
         }
 
-        public void Save() {
-            _context.SaveChanges();
-        }
-
         public int GetCountStudents() {
             return _context.Set<T>().Count();
         }
