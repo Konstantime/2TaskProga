@@ -89,7 +89,7 @@ namespace ConsoleApp
                 else {
                     index = Convert.ToInt32(input);
 
-                    if(index >= 0 && logic.GetCountStudent() <= index) {
+                    if(logic.IsThereSuchAStudent(index) == false) { // if(index >= 0 && logic.GetCountStudent() <= index) {
                         output = "Такого студента не существует";
                     }
                     else {

@@ -40,6 +40,7 @@ namespace ConnectionSample
 
         public void DeleteStudent(int id) {
             var student = GetStudent(id);
+
             if (student != null) {
                 _context.Set<Student>().Remove(student);
                 _context.SaveChanges();

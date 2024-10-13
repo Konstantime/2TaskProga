@@ -28,7 +28,13 @@ namespace BusinessLogic
         public bool IsThereSuchAStudent(int id) {
             List<Student> students = repository.GetStudentList().ToList();
 
+            for (int i = 0; i < students.Count(); i++) {
+                if(students[i].Id == id) {
+                    return true;
+                }
+            }
 
+            return false;
         }
         public void AddStudent(string name, string speciality, string group)
         {
@@ -44,9 +50,7 @@ namespace BusinessLogic
 
         public void DeleteStudent(int index)
         {
-            if (index >= 0 && repository.GetCountStudents() > index) {
-                repository.DeleteStudent(index);
-            }
+            repository.DeleteStudent(index);
         }
 
         public string[][] GetAllStudentsFormatArrayOfArrays()
