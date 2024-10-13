@@ -183,7 +183,6 @@
   <ItemGroup>
     <Compile Include="Context.cs" />
     <Compile Include="Class1.cs" />
-    <Compile Include="DataBaseConnection.cs" />
     <Compile Include="IRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="EntityFrameworkRepository.cs" />

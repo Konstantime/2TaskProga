@@ -19,12 +19,16 @@ namespace BusinessLogic
     {
         IRepository<Student> repository = new EntityFrameworkRepository<Student>();
 
-        //private List<Student> students { get; set; }
-        //    = new List<Student>();
-
         public int GetCountStudent()
         {
-            return repository.GetStudentList().Count();
+            int result = repository.GetStudentList().Count();
+            return result;
+        }
+
+        public bool IsThereSuchAStudent(int id) {
+            List<Student> students = repository.GetStudentList().ToList();
+
+
         }
         public void AddStudent(string name, string speciality, string group)
         {
@@ -52,7 +56,7 @@ namespace BusinessLogic
             string[][] result = new string[repository.GetCountStudents()][];
 
             for (int i = 0; i < repository.GetCountStudents(); i++) {
-                result[i] = new string[] { students[i].name,
+                result[i] = new string[] { Convert.ToString(students[i].Id), students[i].name,
                     students[i].speciality, students[i].group };
             }
 

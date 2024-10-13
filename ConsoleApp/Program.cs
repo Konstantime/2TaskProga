@@ -151,8 +151,8 @@ namespace ConsoleApp
             string[][] students = logic.GetAllStudentsFormatArrayOfArrays();
             for (int i = 0; i < students.Length; i++)
             {
-                Console.WriteLine("{0,-10} {1,-20} {2,-20} {3,-20}", 
-                    i, students[i][0], students[i][1], students[i][2]);
+                Console.WriteLine("{0,-10} {1,-20} {2,-20} {3,-20}",
+                    students[i][0], students[i][1], students[i][2], students[i][3]);
             }
         }
 

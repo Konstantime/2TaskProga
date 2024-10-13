@@ -10,16 +10,7 @@ using Model;
 
 namespace ConnectionSample
 {
-    //public class Context : DbContext
-    //{
-    //    public Context() : base("DbConnection") { } // строка подключения к БД
-
-    //    public DbSet<Student> Students { get; set; } // набор объектов хранящихся в БД
-    //}
-
     public class Context : DbContext {
-
-
         public Context(Microsoft.EntityFrameworkCore.DbContextOptions uy) : base(uy) { } // строка подключения к БД
         public DbSet<Student> Students { get; set; }
     }
