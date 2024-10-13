@@ -7,12 +7,17 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 using BusinessLogic;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using ConnectionSample;
+//using Microsoft.EntityFrameworkCore.SqlServer;
 
 namespace ConsoleApp
 {
     public class Program
     {
         static Logic logic = new Logic();
+
         static void Main(string[] args)
         {
             ClearConsoleBySavingInstructions();

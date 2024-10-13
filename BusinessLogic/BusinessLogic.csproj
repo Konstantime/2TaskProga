@@ -9,11 +9,12 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BusinessLogic</RootNamespace>
     <AssemblyName>BusinessLogic</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -159,6 +160,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ConnectionSample\ConnectionSample.csproj">
+      <Project>{ccd96308-378a-4ee8-b0c2-7ca5683e4a7d}</Project>
+      <Name>ConnectionSample</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Model\Model.csproj">
       <Project>{7055aa9a-9d63-4d1d-b69a-bb2db6ac07d5}</Project>
       <Name>Model</Name>

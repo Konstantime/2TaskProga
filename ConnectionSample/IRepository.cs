@@ -7,11 +7,16 @@ using Model;
 
 namespace ConnectionSample
 {
-    internal interface IRepository
+    public interface IRepository<T> : IDisposable where T : class
     {
-        Task<IEnumerable<Student>> GetAllStudent();
-        Task<Student> GetStudentById(int id);
-        Task CreateStudent(Student student);
-        Task DeleteStudent(int id);
+        IEnumerable<T> GetStudentList();
+        Student GetStudent(int id);
+        void CreateStudent(T student);
+        void DeleteStudent(int id);
+        void DeleteAllStudents();
+        void Save();
+
+        int GetCountStudents();
+
     }
 }

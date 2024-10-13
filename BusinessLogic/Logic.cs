@@ -7,38 +7,52 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Model;
+using ConnectionSample;
+using System.IdentityModel.Metadata;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace BusinessLogic
 {
     public class Logic
     {
-        private List<Student> students { get; set; }
-            = new List<Student>();
+        IRepository<Student> repository = new EntityFrameworkRepository<Student>();
+
+        //private List<Student> students { get; set; }
+        //    = new List<Student>();
 
         public int GetCountStudent()
         {
-            return students.Count;
+            return repository.GetStudentList().Count();
         }
         public void AddStudent(string name, string speciality, string group)
         {
-            students.Add(new Student() { name = name, speciality = speciality, group = group });
+            Student student = new Student() {
+                name = name,
+                speciality = speciality,
+                group = group
+            };
+
+            repository.CreateStudent(student);
+            repository.Save();
         }
 
         public void DeleteStudent(int index)
         {
-            if (index >= 0 && students.Count > index) {
-                students.RemoveAt(index);
+            if (index >= 0 && repository.GetCountStudents() > index) {
+                repository.DeleteStudent(index);
             }
         }
 
         public string[][] GetAllStudentsFormatArrayOfArrays()
         {
-            string[][] result = new string[students.Count][];
+            List<Student> students = repository.GetStudentList().ToList();
 
-            for( int i = 0; i < students.Count; i++ )
-            {
-                result[i] = new string[] { students[i].name, 
+            string[][] result = new string[repository.GetCountStudents()][];
+
+            for (int i = 0; i < repository.GetCountStudents(); i++) {
+                result[i] = new string[] { students[i].name,
                     students[i].speciality, students[i].group };
             }
 
@@ -47,6 +61,8 @@ namespace BusinessLogic
 
         public Dictionary<string, int> GetCountStudentsOfEverySpeciality()
         {
+            List<Student> students = repository.GetStudentList().ToList();
+
             Dictionary<string, int> result = new Dictionary<string, int>();
             foreach (var student in students)
             {

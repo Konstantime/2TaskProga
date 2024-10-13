@@ -8,12 +8,13 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>WindowsFormsApp</RootNamespace>
     <AssemblyName>WindowsFormsApp</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -53,8 +54,8 @@
     <Reference Include="Microsoft.EntityFrameworkCore.Relational, Version=3.1.32.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
       <HintPath>packages\Microsoft.EntityFrameworkCore.Relational.3.1.32\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Relational.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.EntityFrameworkCore.SqlServer, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
-      <HintPath>packages\Microsoft.EntityFrameworkCore.SqlServer.3.1.0\lib\netstandard2.0\Microsoft.EntityFrameworkCore.SqlServer.dll</HintPath>
+    <Reference Include="Microsoft.EntityFrameworkCore.SqlServer, Version=3.1.32.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.EntityFrameworkCore.SqlServer.3.1.32\lib\netstandard2.0\Microsoft.EntityFrameworkCore.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.Caching.Abstractions, Version=3.1.32.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
       <HintPath>packages\Microsoft.Extensions.Caching.Abstractions.3.1.32\lib\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll</HintPath>
@@ -187,6 +188,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
