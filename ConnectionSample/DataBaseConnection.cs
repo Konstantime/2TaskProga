@@ -7,26 +7,26 @@ using System.Data.SqlClient;
 
 namespace ConnectionSample {
 
-    public class DatabaseConnection : IDisposable {
+    //public class DatabaseConnection : IDisposable {
 
-        private readonly string _connectionString;
-        private SqlConnection _connection;
+    //    private readonly string _connectionString;
+    //    private SqlConnection _connection;
 
-        public DatabaseConnection(string connectionString) {
-            _connectionString = connectionString;
-        }
+    //    public DatabaseConnection(string connectionString) {
+    //        _connectionString = connectionString;
+    //    }
 
-        public SqlConnection GetConnection() {
-            if (_connection == null || _connection.State != System.Data.ConnectionState.Open) {
-                _connection = new SqlConnection(_connectionString);
-                _connection.Open();
-            }
-            return _connection;
-        }
+    //    public SqlConnection GetConnection() {
+    //        if (_connection == null || _connection.State != System.Data.ConnectionState.Open) {
+    //            _connection = new SqlConnection(_connectionString);
+    //            _connection.Open();
+    //        }
+    //        return _connection;
+    //    }
 
-        public void Dispose() {
-            _connection?.Dispose();
-        }
-    }
+    //    public void Dispose() {
+    //        _connection?.Dispose();
+    //    }
+    //}
 
 }

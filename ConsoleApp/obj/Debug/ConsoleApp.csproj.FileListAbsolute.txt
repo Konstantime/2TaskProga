@@ -121,3 +121,4 @@ C:\Users\Kostya\source\repos\Semestr3\2TaskProga\ConsoleApp\obj\Debug\ConsoleApp
 C:\Users\Kostya\source\repos\Semestr3\2TaskProga\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
 C:\Users\Kostya\source\repos\Semestr3\2TaskProga\ConsoleApp\obj\Debug\ConsoleApp.exe
 C:\Users\Kostya\source\repos\Semestr3\2TaskProga\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Kostya\source\repos\Semestr3\2TaskProga\ConsoleApp\bin\Debug\BusinessLogic.dll.config

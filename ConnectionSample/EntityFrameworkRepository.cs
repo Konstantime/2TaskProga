@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.SqlServer;
+
 using Model;
 
 namespace ConnectionSample
@@ -11,17 +15,19 @@ namespace ConnectionSample
         IRepository<T> where T : class, IDomainObject, new() {
         
         public Context _context { get; set; }
-        
-        //public EntityFrameworkRepository() {
-        //    _context = new Context();
-        //}
+
         public EntityFrameworkRepository() {
-            // Создаем экземпляр DatabaseConnection с нужной строкой подключения
-            string connectionString = "server=myserver;database=mydatabase;user id=myuser;password=mypassword;";
-            using (var databaseConnection = new DatabaseConnection(connectionString)) {
-                // Создаем экземпляр Context, передавая ему экземпляр DatabaseConnection
-                using ( _context = new Context(databaseConnection)) {}
-            }
+            // Создание объекта DbContextOptionsBuilder
+            var optionsBuilder = new DbContextOptionsBuilder<Context>();
+
+            // Настройка опций для использования SQL Server с указанием пути к файлу базы данных
+            string databaseFilePath = @"C:\Users\Kostya\source\repos\Semestr3\2TaskProga\ConnectionSample\Database1.mdf";
+            optionsBuilder.UseSqlServer($"Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename={databaseFilePath};Integrated Security=True;");
+
+            // Получение объекта DbContextOptions
+            var options = optionsBuilder.Options;
+
+            _context = new Context(options);
         }
 
         public IEnumerable<T> GetStudentList() {
