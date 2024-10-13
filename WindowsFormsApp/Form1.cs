@@ -20,6 +20,9 @@ namespace WindowsFormsApp
         public Form1() {
             InitializeComponent();
             СustomizeListView();
+
+            UpdateGistogram();
+            UpdateListView();
         }
 
         private void AddStudentButton_Click(object sender, EventArgs e) {
@@ -40,7 +43,7 @@ namespace WindowsFormsApp
             }
             
             ListViewItem selectedItem = StudentTablelistView.SelectedItems[0];
-            int selectedIndex = selectedItem.Index;
+            int selectedIndex = Convert.ToInt32(selectedItem.Text);
 
             logic.DeleteStudent(selectedIndex);
 
@@ -92,10 +95,10 @@ namespace WindowsFormsApp
             var students = logic.GetAllStudentsFormatArrayOfArrays();
 
             for (int i = 0; i < students.Length; i++) {
-                ListViewItem item = new ListViewItem( Convert.ToString(i) );
-                item.SubItems.Add(students[i][0]);
+                ListViewItem item = new ListViewItem( Convert.ToString(students[i][0]) );
                 item.SubItems.Add(students[i][1]);
                 item.SubItems.Add(students[i][2]);
+                item.SubItems.Add(students[i][3]);
                 StudentTablelistView.Items.Add(item);
             }
         }

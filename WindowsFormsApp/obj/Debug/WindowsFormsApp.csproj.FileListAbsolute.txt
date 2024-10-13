@@ -102,7 +102,6 @@ C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\bin\Debug\zh-Ha
 C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
 C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
 C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
-C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe.config
 C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.AddStudentForm.resources
 C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
 C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
@@ -111,3 +110,9 @@ C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\obj\Debug\Windo
 C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
 C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
 C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\bin\Debug\Database1.mdf
+C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\bin\Debug\Database1_log.ldf
+C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\bin\Debug\ConnectionSample.dll
+C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\bin\Debug\BusinessLogic.dll.config
+C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\bin\Debug\ConnectionSample.pdb
+C:\Users\Kostya\source\repos\Semestr3\2TaskProga\WindowsFormsApp\bin\Debug\ConnectionSample.dll.config
